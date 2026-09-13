@@ -1,4 +1,4 @@
 
 module.exports={
-    BioData:"Name: Soumodeep,Age:24,Gender:Male"
+    BioDatas:"Name: Soumodeep,Age:24,Gender:Male"
 }

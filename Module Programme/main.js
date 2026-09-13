@@ -1,5 +1,5 @@
 const {Biod}= require ("./module1.js");
-const {BioData}=require("./module2.js");
+const {BioDatas}=require("./module2.js");
 
-console.log(Bio,BioData);
-console.table({Biod,BioData});
+console.log(Biod,BioData);
+console.table({Biod,BioDatas});
