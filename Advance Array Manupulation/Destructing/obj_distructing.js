@@ -1,33 +1,31 @@
 
-
-
 let names=[
+
     {
- name:"Soumodeep",
- marks:55,
- gender:"Male"
-},
-{
-    name:"Manaj",
- marks:36,
- gender: "Male"
-},
-{
-    name:"Aritra",
- marks:32,
- gender: "Male"
-},
-{
-    name:"Sayan",
- marks:30,
- gender: "Male"
-}]
+        Name:"Soumodeep",
+        Age:24,
+        Gender:"Male"
+    },
+      {
+        Name:"Samrat",
+        Age:22,
+        Gender:"Male"
+    },
+      {
+        Name:"Srijla",
+        Age:24,
+        Gender:"Female"
+    },
+      {
+        Name:"Sayani",
+        Age:28,
+        Gender:"Female"
+    }
+]
 
-let [name, name1, name2 ,marks]=names
+let [name,name1,name2]=names
 
-console.log(name);
-console.log(name1);
+console.log(name,name1);
 console.log(name2);
-
 
 
